@@ -2,8 +2,6 @@
 
 Efficient Workspace & Seamless Management for Modern Restaurants
 
-
-
 🚀 Overview
 RMS-SaaS is a feature-rich SaaS platform designed to enhance restaurant operations through smart automation and AI-driven insights. It allows multiple restaurants to manage their orders, tables, billing, and more while offering personalized analytics to improve decision-making.
 
@@ -48,18 +46,14 @@ Enhances security by identifying suspicious activity.
 
 ⚡ Tech Stack
 Frontend
-HTML5, CSS3, JavaScript
-
-Bootstrap 5
+- HTML5, CSS3, JavaScript
+- Bootstrap 5
 
 Backend
-PHP 8.x
-
-MySQL for Database Management
-
-PHPQRCode for QR Generation
-
-PHPMailer for Email Notifications
+- PHP 8.x
+- MySQL for Database Management
+- PHPQRCode for QR Generation
+- PHPMailer for Email Notifications
 
 **Glimpses of System Vista!!**
 
@@ -86,7 +80,7 @@ Submit a pull request.
 
 📧 Support
 For any issues or queries, feel free to raise an issue on GitHub or contact me directly at:
-📩 shivvardhan@example.com
+📩 shivvardhan52@gmail.com
 
 📜 License
 This project is licensed under the MIT License – see the LICENSE file for details.
