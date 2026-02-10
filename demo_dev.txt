@@ -6,5 +6,6 @@ this commit is fine
 
 this is a bad commit (wrong ,boom ,finnishs)
 
+this is good and i know good
 this is a good commit
 
