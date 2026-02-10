@@ -4,7 +4,7 @@ this is a new line
 
 this commit is fine
 
-value=30
+value=10
 
 this is good and i know good
 this is a good commit
